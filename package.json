@@ -1,0 +1,13 @@
+{
+  "name": "backend-preentrega",
+  "version": "1.0.0",
+  "description": "Preentrega de Backend NodeJS- 1C202 2026",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ruben Dario Derosa",
+  "license": "ISC"
+}
